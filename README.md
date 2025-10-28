@@ -1,7 +1,7 @@
 #work-samples/README
 ## Data Project Tracking
 
-The purpose of this hub is to build a portfolio of my work as a Data Analyst. This document tracks and introduces the projects contained within the overall hub.
+The purpose of this hub is to build a portfolio of my work as a Data Analyst. This document tracks and introduces the projects contained within the overall hub, which also demonstrates my skills as a Technical Writer.
 
 1. Data wrangling and cleanup
 - I used GenAI and Python to create randomized sample datasets that would populate a fictitious school district’s Student Information System (SIS) including special education and IEP data.
