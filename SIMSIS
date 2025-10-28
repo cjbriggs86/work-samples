@@ -1,0 +1,34 @@
+#work-samples/SIMSIS
+## Simulated Student Information System (SIS)
+The purpose of this project is to demonstrate my data wrangling skills. It includes the structure and randomly generated content of a fictitious SIS. The general file structure is loosely based on my real-world experience, but in no way represents nor copies data from real-world companies.
+
+## Table of Contents & Summaries [WIP - 10/28/2025]
+### Python files used to generate the associated data:
+generate_admins.py
+generate_assignments.py
+generate_assistivetechs.py
+generate_contacts.py
+generate_ieps.py
+generate_programs.py
+generate_relatedservices.py
+generate_reportcards.py
+generate_studentdata_witherrors.py
+
+### Data files within this project:
+administrators.txt - output of Python code used to generate service providers to relate to IEPs
+
+contactdemographics.txt - output of Python code used to generate fictitious student family members to relate to students
+
+iepassistivetechdevices.txt
+
+iepdocuments.txt
+
+iepprograms.txt
+
+ieprelatedservices.txt
+
+studentassignments.txt
+
+studentdata_witherrors.txt - output of the Python file, imported to SSMS for wrangling and relation to the other files, as well as Excel for visualization exercises
+
+studentdemographics.txt - table housing cleaned student data and relation to the other sections
