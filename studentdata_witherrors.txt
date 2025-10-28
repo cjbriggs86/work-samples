@@ -1,0 +1,520 @@
+studentid	firstname	lastname	birthdate	gender	nativelanguage	homestreet	homeline2	homecity	homestate	homezip	mailstreet	mailcity	mailstate	mailzip
+745043	Noah	Rodriguez	1997-02-06	Female	French	6532 Martin St		Miami	MI	54012	6532 Martin St	Miami	MI	54012
+978145	Mia	Moore	1997-11-06	Female	Korean	4225 Davis St		Columbus	CA	66640	4225 Davis St	Columbus	CA	66640
+198804	Thomas		1997-07-01	Male	Chinese	2401 Smith St		Atlanta	NC	80312	2401 Smith St	Atlanta	NC	80312
+388921	Frank	Thomas	2004-09-17	Male	German	2672 Taylor St		Detroit	IL	22443	2672 Taylor St	Detroit	IL	22443
+560032		Brown	2003-07-15	Other	Spanish	9034 Williams St		Raleigh	FL	93443	9034 Williams St	Raleigh		93443
+284681	Ryan	Jones	1997-12-14	Female	German	3617 Gonzalez St	Apt 86	Columbus	FL	77512	3617 Gonzalez St	Columbus	FL	77512
+945415	Eve	Gonzalez	1996-09-23	Other	Hindi	2022 Williams St		Miami	IL	97503	2022 Williams St	Miami	IL	97503
+148921	Thomas	Garcia	2004-07-04	Female	Chinese	3339 Gonzalez St		Houston	CA	64056	3339 Gonzalez St	Houston	CA	64056
+879549	Jack	Anderson	2001-09-15	Female	French	6843 Hernandez St		Raleigh	TX	20646	6843 Hernandez St	Raleigh	TX	20646
+759991	Bob	Wilson	2002-11-22	Male	Japanese	9906 Taylor St		Chicago	OH	19092	9906 Taylor St	Chicago	OH	19092
+737312	Eve	Davis	1999-02-09	Male	Korean	4416 Williams St		Philadelphia	FL	26198	4416 Williams St	Philadelphia	FL	26198
+754315	Henry	Thomas	1997-01-21	Other		712 Johnson St			IL	99648	712 Johnson St	New York	IL	99648
+583258	Thomas	Jackson	1995-08-14	Other	Russian	6566 Williams St		Chicago	TX	16422	6566 Williams St	Chicago	TX	
+992096	Liam		2000-11-28	Other	English	4804 Wilson St	Apt 64	Atlanta	CA	92710	4804 Wilson St	Atlanta	CA	92710
+360764	Thomas	Jones	1996-04-07	Male	Chinese	7871 Anderson St	Apt 18	Houston	FL	77150	7871 Anderson St	Houston	FL	77150
+866212	Olivia	Brown	1999-03-19	Male	Korean	2041 Garcia St		Raleigh	FL			Raleigh	FL	11684
+880050	Noah	Gonzalez	1995-04-03	Female	Hindi	6358 Jackson St		Miami	IL	16745	6358 Jackson St	Miami	IL	16745
+183756	Charlie	Thomas	1996-08-15	Other	French	4821 Martin St		Los Angeles	TX	56547	4821 Martin St	Los Angeles	TX	56547
+329707	Eve	Rodriguez	2004-01-23	Male	German	4891 Anderson St		Detroit	NC	42354	4891 Anderson St	Detroit	NC	42354
+835150	Mia	Wilson	2002-04-29	Female	Russian	2322 Taylor St	Apt 47	Raleigh	CA	43660	2322 Taylor St	Raleigh	CA	43660
+890572	Thomas	Jackson	2001-03-15	Male	Russian	5069 Smith St		Raleigh	CA	14013	5069 Smith St	Raleigh	CA	14013
+863804	Jack	Smith	2002-07-10	Male	English	7417 Garcia St		Chicago	MI	66905	7417 Garcia St	Chicago	MI	66905
+710932	Ivy	Lopez	2004-08-28	Male	German	1235 Miller St	Apt 77	Atlanta	OH	22745	1235 Miller St	Atlanta	OH	22745
+856525	Bob	Hernandez	1999-10-31	Other	Russian	8297 Johnson St	Apt 80		MI	59177	8297 Johnson St	Columbus	MI	59177
+	Thomas	Gonzalez	1998-07-09	Other	French	2648 Brown St		Atlanta	IL	34323		Atlanta	IL	34323
+443358	Karen	Taylor	2000-08-18	Male	German	6053 Brown St		Houston	GA	28816	6053 Brown St	Houston	GA	28816
+841008	Karen	Miller	1998-10-19	Female	Japanese			New York	NC	28242	5882 Anderson St	New York	NC	28242
+255312	Noah	Thomas	1998-05-24	Male	Spanish	3026 Martinez St		Columbus	CA	60605	3026 Martinez St	Columbus	CA	
+101392		Taylor	2004-10-25	Male		3100 Williams St	Apt 12	Houston	OH	56851	3100 Williams St	Houston	OH	56851
+474054	Jack	Williams	1997-11-24	Other	Japanese	5404 Williams St		Chicago	IL	98861	5404 Williams St	Chicago	IL	98861
+	Peter	Garcia	2000-12-31	Female	Japanese	2884 Garcia St		Miami	GA		2884 Garcia St	Miami	GA	81943
+968201	Ryan	Williams	2000-09-29	Female	Hindi	1158 Taylor St		Philadelphia	FL	51768	1158 Taylor St	Philadelphia	FL	51768
+548622	Ryan	Williams		Other	Russian	7914 Lopez St	Apt 28	Los Angeles		22486	7914 Lopez St	Los Angeles		22486
+701484	Bob	Hernandez	2002-04-22	Female	Russian	7840 Taylor St		Raleigh	IL	73359	7840 Taylor St		IL	73359
+410246	Liam	Garcia	1998-11-28	Other	Spanish	1412 Martinez St		Los Angeles	FL	45662	1412 Martinez St	Los Angeles	FL	45662
+302052	Bob	Martinez	1995-01-14	Male	Chinese	4682 Thomas St		Miami	GA	32037	4682 Thomas St	Miami	GA	32037
+249986	Frank	Davis	1997-02-03	Other	English			Atlanta	NC	67121		Atlanta	NC	67121
+843753	Quinn	Brown	1998-04-01	Male	French	7757 Wilson St	Apt 51	Columbus	MI	33701	7757 Wilson St	Columbus	MI	33701
+690329	Charlie	Jones	2003-05-25	Other	Korean	1945 Wilson St		Philadelphia	NC	33115	1945 Wilson St	Philadelphia	NC	33115
+328740	Ivy	Jackson	2001-03-29	Female		7822 Jackson St			PA	38708	7822 Jackson St	Raleigh	PA	38708
+980898	Olivia	Miller	2002-01-01	Other	English	3303 Hernandez St		Miami	CA	83941	3303 Hernandez St	Miami	CA	83941
+861666	Eve	Johnson	2001-10-24	Female	Arabic	3395 Miller St		Los Angeles	CA	56535	3395 Miller St	Los Angeles	CA	56535
+132041	Bob	Wilson	1997-05-01	Female	Japanese	2378 Hernandez St	Apt 5	Miami	OH	65740	2378 Hernandez St	Miami	OH	65740
+213747	Quinn	Lopez	2001-02-20	Female	Japanese			Detroit	NC	52012	4401 Lopez St	Detroit	NC	52012
+248575	Mia	Smith		Male	French	7207 Garcia St	Apt 20	Chicago	GA	55180		Chicago	GA	55180
+716974	Mia	Miller	1999-12-10	Other	Japanese	2616 Hernandez St	Apt 65	Raleigh	IL	31083	2616 Hernandez St	Raleigh	IL	31083
+212814	Mia	Johnson	2003-05-01	Female	Chinese	1000 Martinez St	Apt 62	Los Angeles	MI	21091	1000 Martinez St	Los Angeles	MI	21091
+273180	Jack	Johnson	1995-10-18		Hindi	860 Hernandez St			PA	89554	860 Hernandez St	Detroit	PA	89554
+402685	Alice	Gonzalez	2003-09-01	Other	Russian	7246 Brown St		Columbus	PA	46953	7246 Brown St	Columbus	PA	
+711504	Quinn	Moore	2000-06-28	Female	Arabic	9905 Wilson St	Apt 75	Chicago	TX	57040	9905 Wilson St	Chicago	TX	57040
+700448	Frank	Brown	2004-05-07	Male	Chinese	8165 Gonzalez St		Los Angeles	MI	31021	8165 Gonzalez St	Los Angeles	MI	31021
+544912	Jack	Martin	2003-03-28	Female	Spanish	3086 Brown St		Miami	NY	11536	3086 Brown St	Miami	NY	11536
+205433	Charlie	Taylor	1998-02-28	Male	Russian	2902 Davis St		Raleigh	PA	39622	2902 Davis St	Raleigh	PA	39622
+602336	Liam	Johnson	1999-05-09	Other	Spanish	1349 Brown St	Apt 53	Raleigh	NC	76590	1349 Brown St	Raleigh	NC	76590
+	Liam	Wilson	2004-04-28	Male	Chinese	2805 Moore St		Detroit	CA	28107	2805 Moore St	Detroit	CA	28107
+286424	Peter	Wilson	1998-06-26	Other	Chinese	2126 Lopez St		Philadelphia	PA	23783	2126 Lopez St	Philadelphia	PA	23783
+869669	Alice	Hernandez	2002-05-08	Male	Russian	421 Moore St	Apt 65	Atlanta	CA		421 Moore St	Atlanta	CA	26669
+727528	Peter	Thomas	1998-01-08	Other	Spanish	9941 Davis St		Philadelphia	TX	53109	9941 Davis St	Philadelphia	TX	53109
+129994	Olivia		2003-08-26	Male	Korean	2500 Garcia St		Detroit	NC	48883	2500 Garcia St	Detroit	NC	48883
+707775	Noah		1996-09-13	Female	Spanish	7554 Garcia St		Detroit	IL	41579	7554 Garcia St	Detroit	IL	41579
+420270	David	Brown	2001-12-10	Other		2020 Anderson St	Apt 16	Houston	TX	79537	2020 Anderson St	Houston	TX	79537
+461215	Thomas	Martin	1999-11-22	Other	Korean	7986 Johnson St		Raleigh	NC	90765	7986 Johnson St	Raleigh	NC	90765
+392822	Sophia	Rodriguez	1996-12-26	Other	Arabic	3430 Jones St		Chicago	MI	51355	3430 Jones St	Chicago	MI	51355
+955090	Charlie	Jones	1998-10-04	Other	Spanish			Detroit	NY	41970	9711 Smith St	Detroit	NY	41970
+280041	Mia	Wilson	1995-04-29	Male	Korean	8625 Rodriguez St		Detroit	PA	95236	8625 Rodriguez St	Detroit	PA	95236
+166260	Alice	Anderson	2003-01-16	Other	English	8940 Miller St	Apt 41	Raleigh	IL	50223	8940 Miller St	Raleigh	IL	50223
+925591	Charlie	Davis	2001-06-03	Female	Hindi	726 Anderson St		New York	MI	62677	726 Anderson St	New York	MI	62677
+538420	Mia	Wilson	2000-08-10	Male	German	2836 Rodriguez St		New York	MI	89421	2836 Rodriguez St	New York	MI	89421
+148558	Frank	Lopez	1995-12-14	Other	Chinese	9119 Lopez St		Miami	GA	76354	9119 Lopez St	Miami	GA	76354
+338004	David	Wilson	1998-11-26	Other	Arabic	5301 Martin St		Philadelphia	IL	41381	5301 Martin St	Philadelphia	IL	41381
+963411	Henry	Jackson	2002-10-26	Female	Hindi	901 Anderson St		Los Angeles	FL	38863	901 Anderson St	Los Angeles	FL	38863
+319162	Karen	Martinez	2001-05-22	Male	Japanese	3926 Brown St		Houston	OH	31928	3926 Brown St	Houston	OH	31928
+574652		Miller			Spanish	7331 Lopez St		Atlanta	NC		7331 Lopez St	Atlanta	NC	77724
+832914	Peter	Davis	2002-02-05	Female	German	9375 Moore St		Houston		60848	9375 Moore St	Houston		60848
+928055	David	Anderson	2002-10-27	Female	Japanese	7423 Anderson St		Raleigh	MI	33792	7423 Anderson St	Raleigh	MI	33792
+479338	Bob	Wilson	2005-12-07	Female	Arabic	7081 Smith St		Houston	FL	20830	7081 Smith St	Houston	FL	20830
+735325	Quinn	Davis	1997-05-28	Other	Russian	1740 Brown St	Apt 19	New York	MI	57954	1740 Brown St	New York	MI	57954
+762448	Alice	Rodriguez	2001-08-27	Male	Korean	7691 Miller St		Miami		45012	7691 Miller St	Miami	MI	45012
+489270	Jack	Taylor	1998-09-21	Female	Hindi	7046 Jackson St		Atlanta	GA	79006	7046 Jackson St	Atlanta	GA	79006
+206724	Jack	Martinez	1999-03-26	Female	Korean	9063 Thomas St		Chicago	PA	54564	9063 Thomas St	Chicago	PA	54564
+540793	Liam	Smith	2000-12-30	Female	German	4626 Thomas St	Apt 75	Raleigh	GA	56775	4626 Thomas St	Raleigh	GA	56775
+801208	Quinn	Gonzalez	2004-11-29	Female	Spanish	8166 Taylor St		Atlanta	OH	26289	8166 Taylor St	Atlanta	OH	26289
+213747	Quinn	Lopez	2001-02-20	Female	Japanese			Detroit	NC	52012	4401 Lopez St	Detroit	NC	52012
+424363	Quinn	Garcia	2005-03-23	Male	Hindi	4260 Lopez St		Houston	FL	60406	4260 Lopez St	Houston	FL	60406
+851785	Sophia	Lopez	2002-02-18	Female	Japanese	8035 Hernandez St		Detroit	NY	58045	8035 Hernandez St	Detroit	NY	58045
+984441	Peter	Rodriguez	1998-11-04	Other	Spanish	2550 Martin St			GA	57402	2550 Martin St	Los Angeles	GA	57402
+159166	Noah	Johnson	2005-06-03	Male	German	4988 Davis St	Apt 94	Columbus		58040	4988 Davis St			58040
+806790	Charlie	Lopez	2003-06-05			4117 Taylor St		Houston	OH	18311	4117 Taylor St	Houston	OH	18311
+583921	Mia	Martin	2002-03-16	Female	German	6502 Smith St		Chicago	CA	86809	6502 Smith St	Chicago	CA	86809
+173369	Eve	Martin	2005-11-11	Female	German	1793 Jones St		Miami	FL	40525	1793 Jones St	Miami	FL	40525
+901236	Bob	Wilson	1999-12-12	Female	Hindi	224 Davis St	Apt 58	Los Angeles	TX	11059	224 Davis St	Los Angeles	TX	11059
+594252	Grace	Davis	1996-08-14	Male	Chinese	1694 Miller St	Apt 82	Chicago	MI	49336	1694 Miller St	Chicago	MI	49336
+851546	Charlie	Rodriguez	2005-06-15	Female	Korean	6543 Martinez St		Philadelphia	GA	47951	6543 Martinez St	Philadelphia	GA	47951
+306049		Lopez	2001-08-17	Female	Spanish	5574 Thomas St	Apt 41		GA	31227	5574 Thomas St	Houston	GA	31227
+407389		Thomas	1995-06-06	Male	Russian	2146 Davis St	Apt 51	Raleigh	NY	88917	2146 Davis St	Raleigh	NY	88917
+718270	Frank	Anderson		Male	Korean	6235 Jackson St		Atlanta	TX	31186		Atlanta	TX	31186
+580996	Sophia	Davis	1998-01-29	Other	Arabic	1030 Moore St	Apt 30	New York	NC	27381	1030 Moore St	New York	NC	27381
+721150	Henry	Brown		Other	German	4948 Wilson St		Los Angeles	FL	75053	4948 Wilson St	Los Angeles	FL	75053
+787916	Noah	Wilson	1999-05-22	Female	French	9057 Miller St		Raleigh	NY	75184	9057 Miller St	Raleigh		75184
+521144	Alice	Williams	2001-05-28	Male	German	7998 Williams St		Philadelphia	PA	60042	7998 Williams St	Philadelphia	PA	60042
+177623	Eve	Taylor	1995-09-03	Male	Spanish	6259 Williams St		New York	FL	99592	6259 Williams St	New York	FL	99592
+266886	Eve	Garcia	2005-09-18	Female	Korean	1287 Hernandez St		Detroit	IL	24300	1287 Hernandez St	Detroit	IL	24300
+421639	Thomas	Jones	1998-12-25	Female	Japanese	7371 Jackson St		Miami	TX	49400		Miami	TX	49400
+637341	Sophia	Jones	2002-04-03	Other	Spanish	4822 Rodriguez St		Miami	NC	15786	4822 Rodriguez St	Miami	NC	15786
+499602	Sophia	Wilson	1997-12-05	Female	Japanese	9860 Miller St		Miami	FL	65573	9860 Miller St	Miami	FL	65573
+	Mia	Lopez		Other	Arabic	5251 Rodriguez St		New York	GA	89681	5251 Rodriguez St	New York	GA	89681
+658221	Thomas	Johnson	2001-07-27	Female	Hindi	345 Smith St		Houston	MI	64775	345 Smith St	Houston	MI	64775
+697586	Quinn	Gonzalez	2004-04-30	Female	Russian	5997 Brown St		Miami		72580	5997 Brown St	Miami	NC	72580
+165139	Eve	Taylor	1997-10-25	Male	French	4079 Hernandez St		Chicago	GA	10269	4079 Hernandez St	Chicago		10269
+265477	Liam	Martinez	2002-04-18	Male	German	122 Martin St	Apt 93	Columbus	TX		122 Martin St	Columbus	TX	91581
+266575	Jack	Brown	1998-12-27	Other		5669 Lopez St		Raleigh	OH	93783		Raleigh	OH	93783
+478017	Noah	Gonzalez	2001-08-20	Other	Japanese	2229 Rodriguez St		Los Angeles	TX	31497	2229 Rodriguez St	Los Angeles	TX	31497
+308927	Jack	Hernandez	2001-09-30	Female	Arabic	4407 Lopez St		New York	PA	86768	4407 Lopez St	New York	PA	86768
+644235	Jack	Martinez	2004-04-22	Female	Japanese	8490 Davis St		Chicago		39111	8490 Davis St	Chicago	PA	39111
+250588	Ryan	Wilson	2004-06-06	Other	Hindi	8096 Gonzalez St		Miami	NY	51572	8096 Gonzalez St	Miami	NY	
+319878	Alice	Jones	1999-11-22	Female	Spanish	3648 Smith St		Chicago	MI	56466	3648 Smith St	Chicago	MI	56466
+320898	David	Martin	2001-06-11	Other	Korean	7951 Jones St		Columbus	TX	95662	7951 Jones St	Columbus	TX	95662
+535272	Noah	Lopez	2004-05-29	Male	Japanese	2190 Brown St	Apt 63	Atlanta	IL	70487	2190 Brown St	Atlanta		70487
+549732	Charlie		1995-02-19	Other	French	2488 Jones St		Atlanta	FL	56659	2488 Jones St	Atlanta	FL	56659
+414155	Sophia	Martinez	2001-11-25	Female	Spanish	6125 Jones St	Apt 96	Chicago	MI	74507	6125 Jones St	Chicago	MI	74507
+699851	Henry		2000-11-01	Male	Spanish	5884 Garcia St	Apt 89				5884 Garcia St	Raleigh		41321
+689130	Mia	Martin	1999-12-23	Male	French	4256 Moore St	Apt 42	Miami	FL	73448	4256 Moore St	Miami	FL	73448
+386580		Davis	2001-01-30	Male	Japanese			Los Angeles	GA	11475	2291 Smith St	Los Angeles	GA	11475
+565913	Charlie	Rodriguez	1997-08-05	Female	Japanese	5415 Lopez St		Detroit	NY	44406	5415 Lopez St	Detroit	NY	44406
+926172	Eve	Martin	2000-10-06	Male	Russian	1689 Jackson St	Apt 67	Miami	OH	91348	1689 Jackson St	Miami	OH	91348
+360974	Jack	Rodriguez	2005-07-22	Female	Chinese	2589 Johnson St		Raleigh	TX	94101	2589 Johnson St	Raleigh	TX	94101
+689508	Charlie	Wilson	1997-01-29	Male	Arabic	8915 Brown St		Philadelphia	TX		8915 Brown St	Philadelphia	TX	86016
+899817	Grace		2002-07-23	Other	Chinese	8088 Garcia St		Atlanta	CA	94954	8088 Garcia St	Atlanta	CA	94954
+458723	Ivy	Johnson	2000-05-28	Male	German	9440 Wilson St		Detroit	FL	80382	9440 Wilson St	Detroit	FL	80382
+877421	Peter	Jones	2004-02-29	Other	Spanish	4652 Thomas St		Houston	GA	19195	4652 Thomas St	Houston	GA	19195
+699717		Wilson	2005-01-29	Male	Chinese	9064 Wilson St		Chicago	CA	28752	9064 Wilson St	Chicago	CA	28752
+879446	Thomas	Gonzalez	2000-08-27	Other	Korean				GA	46514		Houston	GA	46514
+791137	Olivia	Brown	2004-03-31	Male	Hindi	4251 Lopez St		Houston	GA	27411	4251 Lopez St	Houston	GA	27411
+110227	Thomas	Wilson	2002-10-27	Male	English			Atlanta	FL	95480	7493 Taylor St	Atlanta	FL	95480
+879141	Alice	Anderson	1999-11-14	Female	Korean	207 Hernandez St	Apt 36	Raleigh	MI	20431	207 Hernandez St	Raleigh	MI	20431
+434103	Sophia	Anderson	2000-02-10	Female				Houston	PA	46352		Houston	PA	46352
+817877	Frank	Jackson	2005-06-05	Other	Japanese	4052 Jackson St		Columbus	IL	15257	4052 Jackson St	Columbus	IL	15257
+	Jack	Johnson	1996-03-17	Other	English	5630 Davis St		Philadelphia	CA	28809		Philadelphia	CA	28809
+187368	Ryan	Smith	2001-09-17	Female	Korean	6113 Wilson St		Columbus	GA	39275	6113 Wilson St	Columbus	GA	39275
+883122	Charlie	Miller	2004-05-04	Other	German	3009 Williams St		Raleigh	IL	24393	3009 Williams St	Raleigh	IL	24393
+540220	Liam	Wilson	2003-03-10	Other	Japanese	5435 Taylor St	Apt 94	Chicago	OH	75237	5435 Taylor St	Chicago	OH	75237
+624998	Grace		1997-08-26		Chinese	9330 Martin St	Apt 99	Houston	FL	78807		Houston	FL	
+654271	Karen	Wilson	1996-05-27	Male		646 Johnson St		Los Angeles	IL	98588	646 Johnson St	Los Angeles	IL	98588
+810811	Liam	Williams	2003-07-22	Male	Hindi	5092 Miller St		Philadelphia	GA	62353	5092 Miller St	Philadelphia	GA	62353
+150756		Garcia	2002-09-10	Female	Chinese	9165 Rodriguez St		New York	CA	55510	9165 Rodriguez St	New York	CA	55510
+474294	Noah	Moore	2002-07-14	Male	Japanese	213 Hernandez St		Detroit	NC	43645	213 Hernandez St	Detroit	NC	43645
+259582	Mia		2004-02-08	Female	Korean	3817 Thomas St		Atlanta	NC	88205		Atlanta	NC	88205
+642955	Olivia	Taylor	2003-02-22	Female	Arabic	140 Anderson St			TX	16955	140 Anderson St	Raleigh	TX	16955
+570614	Mia	Taylor	2003-09-21	Male	Russian	6896 Moore St	Apt 42	Raleigh	IL	46229	6896 Moore St	Raleigh	IL	46229
+398040	Henry		1998-04-28	Male	Chinese	6770 Gonzalez St	Apt 95	Houston	GA	22215	6770 Gonzalez St	Houston	GA	22215
+208799	Karen	Rodriguez	2004-07-11	Male	Arabic	6733 Miller St		Chicago	PA	26930	6733 Miller St	Chicago	PA	26930
+309130	Charlie	Martin	1995-10-05	Female	Japanese	2979 Smith St		Miami	NY	53289	2979 Smith St	Miami	NY	53289
+418304	Quinn	Smith	1996-06-11		German	6293 Johnson St		Chicago	CA	98435	6293 Johnson St	Chicago	CA	98435
+948801	Liam	Williams	1996-11-27	Female	French	1484 Williams St	Apt 22	Los Angeles	MI	78285		Los Angeles	MI	78285
+828848	Noah	Miller	2002-09-07	Female	German	3849 Rodriguez St		Atlanta	OH	43744	3849 Rodriguez St	Atlanta	OH	43744
+164229	Noah	Williams	1995-07-26	Female	Spanish			Raleigh	IL	11687	8064 Thomas St	Raleigh	IL	11687
+645917	Henry	Wilson	1996-10-08	Male		4228 Martinez St		Columbus	TX	92269	4228 Martinez St	Columbus	TX	92269
+807355	Jack	Taylor	1998-11-13	Other		7018 Taylor St		New York	OH	11659	7018 Taylor St		OH	11659
+576849	Noah	Martin	2003-04-29	Male	Japanese	568 Anderson St		Philadelphia	GA	23559	568 Anderson St	Philadelphia	GA	23559
+467861	Mia	Davis	1995-03-11	Other	French	1328 Thomas St		Chicago	CA	54721	1328 Thomas St	Chicago	CA	54721
+462820		Moore	2002-02-26	Male	Arabic			Atlanta	FL	76729	4361 Davis St	Atlanta	FL	76729
+496690	Olivia	Rodriguez	1995-07-17	Female	Hindi	9609 Jones St	Apt 40	Chicago	CA	87624	9609 Jones St	Chicago	CA	87624
+889245	Henry	Moore	2001-03-07	Other	Arabic	2425 Martin St		Chicago		75919	2425 Martin St	Chicago	OH	75919
+	Charlie	Hernandez	2001-01-27	Female		2525 Thomas St	Apt 89	Chicago	NY	48820	2525 Thomas St	Chicago	NY	48820
+450719	Henry	Garcia	1995-02-17	Female	German	3654 Thomas St		New York	MI	78737	3654 Thomas St	New York	MI	78737
+765638		Davis	1999-08-27	Other	Hindi	1007 Davis St		Los Angeles	CA	30658	1007 Davis St	Los Angeles	CA	30658
+		Thomas	2003-02-10	Other	French	6896 Wilson St	Apt 61	New York	PA	52053	6896 Wilson St	New York		52053
+277470	David	Lopez	1997-05-10	Female	Arabic	6967 Williams St	Apt 77	Philadelphia	MI	28456	6967 Williams St	Philadelphia	MI	28456
+299062	Ryan	Williams	1998-08-30	Other		5737 Wilson St		Detroit	IL	77034	5737 Wilson St	Detroit	IL	77034
+654385	Quinn	Davis	1995-01-17	Female	French	111 Lopez St		Houston	GA	71056	111 Lopez St	Houston	GA	71056
+396026	Quinn	Miller	1995-06-10	Female	Arabic	7700 Lopez St		Miami	IL	15028	7700 Lopez St	Miami	IL	15028
+245254	Alice	Miller	1998-12-12	Other	Arabic	1392 Martinez St	Apt 100	Houston	NY	31849	1392 Martinez St	Houston	NY	31849
+279893	Thomas	Wilson	1995-02-17	Male	Hindi	2909 Brown St		Columbus	NY	20290	2909 Brown St	Columbus	NY	20290
+904296	Charlie		2002-06-18		Korean			Columbus	FL	33216	6811 Jones St	Columbus	FL	33216
+149845	Sophia	Johnson	1998-02-21	Other	Spanish	6054 Taylor St	Apt 95	Atlanta	GA	31346	6054 Taylor St	Atlanta	GA	31346
+156091	Charlie	Taylor	2002-09-09	Other	English	5553 Rodriguez St		Los Angeles	IL	24774	5553 Rodriguez St	Los Angeles	IL	24774
+279572	Bob	Anderson	1996-09-11	Male	German	5267 Miller St	Apt 46	Detroit		55269	5267 Miller St	Detroit	TX	55269
+132324	Grace	Anderson		Male	Hindi	2520 Rodriguez St	Apt 56	Columbus	OH	71180		Columbus	OH	71180
+190764	Bob	Moore	2004-04-24	Female	Chinese	8995 Lopez St		Atlanta	CA	89880	8995 Lopez St	Atlanta		89880
+734447	Charlie	Smith	1999-01-23	Other	French	8815 Johnson St	Apt 28	Atlanta	GA	54660	8815 Johnson St	Atlanta	GA	54660
+720530	Bob	Gonzalez		Male	English	6945 Miller St		New York	TX	95941	6945 Miller St	New York	TX	95941
+698356	Liam	Moore	2002-06-28	Male	Chinese	3174 Miller St	Apt 38	Houston	OH	22873	3174 Miller St	Houston	OH	22873
+215726	Quinn	Martinez	1996-12-28	Female		5636 Wilson St		Houston	PA	54909	5636 Wilson St	Houston	PA	54909
+189632	Henry	Lopez	1997-08-18	Female	Korean	7595 Gonzalez St		Chicago		56223	7595 Gonzalez St	Chicago	PA	56223
+271867	David	Lopez	1995-01-16	Female	Hindi	1632 Davis St		New York	TX	33548		New York	TX	33548
+840486	David	Lopez	2002-10-23	Female	Russian	1452 Hernandez St		Atlanta	TX	88074	1452 Hernandez St	Atlanta	TX	88074
+877656	Mia	Moore	1995-12-25	Other	German	1780 Moore St		Los Angeles	MI			Los Angeles	MI	27987
+239341	Thomas	Brown	2002-06-17	Female	Chinese	5874 Martin St		Houston	NY	67187	5874 Martin St	Houston	NY	67187
+161000	Sophia	Hernandez	2004-08-21	Female	German	6593 Wilson St		Philadelphia	PA	47635	6593 Wilson St	Philadelphia	PA	47635
+825638	Henry	Wilson	1996-03-11	Female	French			Raleigh	OH	39679	5558 Smith St		OH	39679
+161183	Noah	Martin	1998-07-07	Other	English	3878 Gonzalez St		Houston	PA	47734	3878 Gonzalez St	Houston	PA	47734
+382077	Ivy	Davis	1995-03-08	Male	Chinese	6266 Moore St		Columbus	NC	40277	6266 Moore St	Columbus	NC	40277
+708917	Alice	Wilson	1995-01-01	Male	Hindi	4181 Smith St		Houston	PA	81673	4181 Smith St	Houston	PA	81673
+366186	Jack	Wilson	1997-05-31	Other	Russian	551 Taylor St	Apt 62	Atlanta	NY	32377		Atlanta	NY	32377
+827501	Quinn	Miller	2004-03-28	Other	French	161 Gonzalez St	Apt 79	Miami	MI	51029	161 Gonzalez St	Miami	MI	51029
+697397	Mia	Jones	2005-06-27	Other	Japanese	733 Jones St		New York	TX	50702	733 Jones St	New York	TX	50702
+	Peter	Thomas	1996-11-07	Male	Chinese	3769 Brown St		Detroit	MI	66959	3769 Brown St	Detroit	MI	66959
+257812	Noah	Jones	1999-05-09	Other	Arabic	8188 Smith St		Atlanta	CA	21360	8188 Smith St	Atlanta	CA	21360
+984447	Grace	Moore	2002-01-22	Other	French	311 Davis St			GA	87657	311 Davis St	Detroit	GA	87657
+850112	Alice	Gonzalez	2003-03-29	Female	Arabic	7424 Jones St		Raleigh	NC	55460	7424 Jones St	Raleigh	NC	55460
+886352	Henry	Johnson	1998-01-08	Female	Arabic	7273 Moore St		New York	PA	34921	7273 Moore St	New York	PA	34921
+126022	Henry	Martin	2005-12-14	Female	German	891 Anderson St		Raleigh	IL	36393		Raleigh	IL	36393
+951019	Olivia	Johnson	2002-09-17		Japanese	5971 Lopez St		Chicago	IL	31801	5971 Lopez St	Chicago	IL	31801
+	Olivia	Martin	2000-03-05	Male	French	9189 Taylor St		Philadelphia	FL	94598	9189 Taylor St	Philadelphia	FL	94598
+644767	Mia	Lopez	1999-03-28	Other	Japanese	3730 Anderson St		Miami	GA	29816	3730 Anderson St	Miami	GA	29816
+215451	Olivia	Rodriguez	2000-05-30	Female	Japanese	4207 Thomas St	Apt 74	Miami	GA	55324	4207 Thomas St		GA	55324
+148418	Ryan	Rodriguez	2000-02-05	Female	Chinese	6144 Moore St		Columbus	OH	41014	6144 Moore St	Columbus	OH	41014
+243871	Ryan	Jones	2003-04-03	Male	Chinese	1400 Hernandez St		Philadelphia		87335	1400 Hernandez St	Philadelphia	OH	87335
+531137	Jack	Hernandez	1996-11-26	Female		4539 Gonzalez St		Los Angeles	FL	81120	4539 Gonzalez St	Los Angeles	FL	81120
+348139	Noah	Anderson	1998-12-04	Female	Arabic	1205 Rodriguez St	Apt 89	Los Angeles	CA	22426	1205 Rodriguez St	Los Angeles	CA	22426
+668368	Charlie	Hernandez	2003-06-24	Other	Korean	7734 Jones St		New York	CA	45874	7734 Jones St	New York	CA	45874
+521762	Liam	Moore	1997-10-29	Other		2307 Williams St		Atlanta	PA	90311	2307 Williams St	Atlanta	PA	90311
+538420	Mia	Wilson	2000-08-10	Male	German	2836 Rodriguez St		New York	MI	89421	2836 Rodriguez St	New York	MI	89421
+192456	Peter	Williams	1996-02-28	Other	Spanish	2046 Thomas St		Philadelphia	CA	61126	2046 Thomas St	Philadelphia		61126
+668666	Ivy	Gonzalez	2005-08-23	Other	French	8107 Thomas St		New York	TX	68323	8107 Thomas St	New York	TX	68323
+152396	Jack	Gonzalez	1996-12-03	Other	Arabic	424 Johnson St		Miami	PA	24241	424 Johnson St	Miami	PA	24241
+213748	Frank	Thomas	2002-09-10	Male	Japanese	2379 Davis St		New York	FL	46978	2379 Davis St	New York	FL	46978
+350638	Charlie		1999-04-12	Male	Spanish	4102 Jones St	Apt 17		OH	72218	4102 Jones St	Houston	OH	
+	Henry	Jackson	2001-09-10	Male	Hindi	4298 Lopez St		Los Angeles	CA	28666	4298 Lopez St	Los Angeles	CA	28666
+607936	Grace	Jones	1998-05-25	Other	German			Philadelphia	CA	29459	9430 Thomas St	Philadelphia	CA	29459
+383359		Brown	1995-03-24	Female	French	1118 Jackson St		Houston	PA	58747			PA	
+927175	Olivia	Rodriguez	1998-10-31	Male	English			Chicago	NY		4394 Garcia St	Chicago	NY	92170
+258884		Taylor	2003-09-27	Female		4493 Jones St		Columbus	FL	90301	4493 Jones St	Columbus	FL	90301
+799563	Ivy		1995-05-07	Male	Hindi	9406 Jackson St		Philadelphia	OH	76844	9406 Jackson St	Philadelphia	OH	76844
+	Ryan	Taylor	1998-07-27	Male	French	122 Thomas St	Apt 65	Atlanta	PA	21241	122 Thomas St	Atlanta	PA	21241
+	Henry	Miller	2005-02-14	Male	Spanish	5182 Gonzalez St		Los Angeles	NY	21041	5182 Gonzalez St	Los Angeles	NY	21041
+775816	Frank	Hernandez	2002-08-04	Other	Russian	2125 Taylor St	Apt 97	Philadelphia	MI	37894	2125 Taylor St	Philadelphia	MI	37894
+395244	Grace	Garcia	2001-04-09	Female	Russian	5933 Johnson St		Houston	PA	77886	5933 Johnson St	Houston	PA	77886
+874732	Peter	Rodriguez	2004-04-21	Female	Chinese	3426 Jackson St		Raleigh	NY	47251	3426 Jackson St	Raleigh	NY	47251
+486672	Bob	Wilson	1995-04-19	Female	Arabic	2482 Williams St		New York	MI	88575	2482 Williams St	New York		88575
+266360	David	Anderson	2004-12-17	Other	Chinese			Atlanta		41542	8042 Jones St	Atlanta	OH	41542
+578783	Noah	Miller	1998-12-01	Female	Russian	7735 Brown St		Detroit	OH	26943	7735 Brown St	Detroit	OH	26943
+496500	Liam	Taylor	1999-06-10	Male	Arabic	9911 Brown St	Apt 4		NY	38102	9911 Brown St	Columbus	NY	38102
+678175	Grace	Thomas	1998-10-22	Female	Spanish	4907 Williams St			GA	94611	4907 Williams St	Raleigh	GA	94611
+640050	Eve	Gonzalez	1999-09-14	Male	Hindi	2779 Brown St		Chicago	OH	92899	2779 Brown St	Chicago	OH	92899
+547829	David	Davis	1998-08-08	Male	Russian	1631 Martin St		Houston	GA	45054	1631 Martin St	Houston	GA	45054
+122107	Karen	Martinez	2002-12-18	Female	Spanish	7530 Gonzalez St		Los Angeles	OH	21054	7530 Gonzalez St	Los Angeles	OH	21054
+805901	Henry	Johnson	1995-12-09	Other	Japanese	9680 Davis St		Los Angeles	NC	87682	9680 Davis St	Los Angeles	NC	87682
+846403	Liam	Wilson	2000-09-20	Other	English	6080 Anderson St	Apt 7	Raleigh	CA	31261	6080 Anderson St	Raleigh	CA	31261
+281296	Mia	Rodriguez	1997-03-18	Female	Russian	4812 Davis St			PA	76283	4812 Davis St	Miami	PA	76283
+701268	Mia	Smith	2003-04-15	Male	French		Apt 20	Houston	PA	29817	400 Anderson St	Houston	PA	29817
+684486	Alice	Anderson	2000-01-21	Male	German	8385 Gonzalez St		Raleigh	TX	74888		Raleigh	TX	74888
+	Quinn		2000-05-21	Other	Korean	4332 Smith St		Miami	NC	78366	4332 Smith St	Miami	NC	78366
+367114	Noah	Williams	2000-07-01	Female	Chinese	5360 Davis St	Apt 78	Philadelphia	GA	37370	5360 Davis St	Philadelphia	GA	37370
+642599	Ivy	Moore	2002-12-07	Female	Chinese	571 Brown St		Raleigh		78144	571 Brown St	Raleigh	NY	78144
+992096	Liam		2000-11-28	Other	English	4804 Wilson St	Apt 64	Atlanta	CA	92710	4804 Wilson St	Atlanta	CA	92710
+	Frank	Williams	1995-07-06	Other	Spanish	9788 Thomas St			MI	58582		Raleigh	MI	58582
+181016	Thomas	Lopez	2001-12-23	Female	French	9378 Jackson St		Miami	IL	10982	9378 Jackson St	Miami	IL	10982
+371713	Mia	Rodriguez	1999-02-17	Other	Hindi	2548 Moore St		Atlanta	NY	71680		Atlanta	NY	71680
+547123	Henry	Lopez	1999-10-23	Other		8850 Jones St		Philadelphia	PA	27922		Philadelphia	PA	27922
+668885	Charlie	Anderson	2004-11-16		Spanish	5129 Hernandez St	Apt 93	Miami		70786	5129 Hernandez St	Miami	IL	70786
+697207	Ivy		1997-04-23	Other	Russian	695 Jones St		Atlanta	FL	32696		Atlanta	FL	32696
+837356	Liam	Jackson	1997-09-30	Female	Chinese	377 Jackson St		Houston	MI	18720	377 Jackson St	Houston	MI	18720
+667400	Frank	Johnson	1995-02-04	Female	Korean	2797 Williams St	Apt 55	New York	NY	26769	2797 Williams St	New York	NY	26769
+237573	Grace	Miller	2004-10-07	Male	Arabic	4975 Martin St		Columbus	IL	14795	4975 Martin St		IL	14795
+793286	Peter	Martin	2000-04-19	Male	German	2467 Smith St		Detroit	CA	48194	2467 Smith St	Detroit	CA	48194
+260891	Charlie	Jones	1997-01-02	Male	Hindi	3907 Thomas St	Apt 93	Columbus	MI	26194	3907 Thomas St	Columbus	MI	26194
+551150	Sophia	Williams	2004-05-09	Female	German	6964 Williams St	Apt 7	Houston	PA	81090	6964 Williams St	Houston	PA	81090
+793816	Henry	Jones	2002-08-29	Female	English	8770 Smith St			NY	93658		Houston		93658
+657299	Olivia	Garcia	2002-06-17	Female	French	1556 Martinez St		Atlanta	IL	96396	1556 Martinez St	Atlanta	IL	96396
+131171	Alice	Rodriguez	1995-03-03	Male	Japanese	7673 Lopez St		Houston	CA	66295	7673 Lopez St	Houston	CA	66295
+945639	Henry	Williams	2000-03-08	Other	Korean	8889 Moore St	Apt 19	Philadelphia		64787	8889 Moore St	Philadelphia	MI	64787
+875067	David	Lopez	2001-01-19	Other	Arabic			Philadelphia	TX	76249	9463 Smith St	Philadelphia	TX	76249
+233241	Sophia	Martinez	2001-09-28	Male	Hindi	6469 Smith St		Atlanta	FL	19923	6469 Smith St	Atlanta	FL	19923
+160307	Grace	Garcia	1997-08-19	Male	Japanese			Atlanta	NC	20572	2442 Hernandez St	Atlanta	NC	20572
+370666	Grace	Williams	1999-07-12	Female	German	8327 Jones St		Chicago	GA	67684	8327 Jones St	Chicago	GA	67684
+454163	Olivia	Taylor	2000-03-03	Female	Chinese	3963 Martinez St		Miami	NC	18901	3963 Martinez St	Miami	NC	18901
+762448	Alice	Rodriguez	2001-08-27	Male	Korean	7691 Miller St		Miami		45012	7691 Miller St	Miami	MI	45012
+288136	Frank	Taylor	2002-12-19	Male	Arabic	4299 Lopez St	Apt 76	Detroit	OH	25578	4299 Lopez St	Detroit	OH	25578
+266758	Liam	Martin	1999-01-22	Male	Spanish	3943 Hernandez St	Apt 58	New York	NY	80495	3943 Hernandez St	New York	NY	80495
+302909	Eve	Thomas	1996-01-08	Female	Arabic	4421 Anderson St		Raleigh	MI	31509		Raleigh	MI	
+592812	Ryan	Smith	2004-04-26	Female	Chinese	6194 Wilson St		Detroit	TX	83895	6194 Wilson St	Detroit	TX	83895
+940661	Quinn	Miller	2001-06-28	Other	Japanese	788 Gonzalez St	Apt 26	Atlanta	NY	98817	788 Gonzalez St	Atlanta	NY	98817
+453583	Karen	Williams	1999-04-01	Male	Japanese	3465 Lopez St			FL	79767	3465 Lopez St	Los Angeles	FL	79767
+663449	Alice	Johnson	2005-12-21	Female	Chinese	9876 Moore St	Apt 88	Atlanta	CA	70988	9876 Moore St	Atlanta	CA	70988
+163552	Frank	Williams	1996-01-02	Male	Japanese	9170 Brown St		Atlanta	TX	75257		Atlanta	TX	75257
+	Charlie	Brown	2005-01-14	Female	German	9274 Garcia St		Los Angeles	TX	55150	9274 Garcia St		TX	
+109383	Grace	Smith	1996-05-25	Other	Spanish	4990 Wilson St		Chicago	FL	25293	4990 Wilson St	Chicago	FL	25293
+796029	Ryan	Lopez	2003-12-28	Male	Japanese	9921 Smith St		Los Angeles		85977	9921 Smith St	Los Angeles	OH	85977
+428762	Karen	Brown	2005-08-29	Other	Korean			Philadelphia	MI	53382	1200 Taylor St	Philadelphia	MI	53382
+998470	Alice	Rodriguez	1999-07-05	Male	Arabic	2079 Smith St		Atlanta	NY	74199	2079 Smith St	Atlanta	NY	
+349721	Jack		1999-04-01	Female	Korean	7876 Hernandez St	Apt 86	Los Angeles	NY	99109	7876 Hernandez St	Los Angeles	NY	99109
+926919	Karen	Wilson	2002-08-15	Female	German	4836 Martin St		Atlanta	NY	46217	4836 Martin St	Atlanta	NY	46217
+594256	Karen	Martin	2002-05-01	Other	German	5174 Garcia St		Raleigh	CA	56062		Raleigh	CA	56062
+591251	Bob	Williams	1998-05-27		English	4971 Thomas St		Miami	PA	54072	4971 Thomas St	Miami	PA	54072
+516996	Liam	Williams	2005-07-01	Male		916 Smith St		Atlanta	NC	95420	916 Smith St	Atlanta	NC	95420
+523596	Ivy	Lopez	2000-11-27	Female	Spanish	6461 Taylor St		Los Angeles	MI	13496	6461 Taylor St	Los Angeles	MI	13496
+725998	Sophia	Rodriguez	2005-06-29	Female	Japanese	4323 Davis St		Los Angeles	IL	87976	4323 Davis St		IL	87976
+733600	Charlie	Jackson	2000-04-25	Female	Japanese	8700 Jones St	Apt 55	Philadelphia	NC	34496	8700 Jones St	Philadelphia	NC	34496
+402685	Alice	Gonzalez	2003-09-01	Other	Russian	7246 Brown St		Columbus	PA	46953	7246 Brown St	Columbus	PA	
+315367	Mia	Johnson	2001-07-09	Female	Korean	3761 Smith St	Apt 4	New York	TX	34547	3761 Smith St	New York	TX	34547
+275126	Ivy	Lopez	1997-09-22	Female	Chinese	9054 Smith St		Philadelphia	FL		9054 Smith St	Philadelphia	FL	55352
+959801	Thomas	Miller		Male	German	3764 Williams St		Los Angeles	GA	22803	3764 Williams St	Los Angeles	GA	22803
+782046	Eve	Johnson	2002-09-20		Spanish	1304 Wilson St		Detroit	NY	56252	1304 Wilson St	Detroit	NY	56252
+772780	Frank	Rodriguez	2004-04-30		Japanese	811 Rodriguez St	Apt 97	Chicago	FL	90231	811 Rodriguez St	Chicago	FL	90231
+804275	David	Moore	2002-11-13	Female	French	9473 Jackson St		Miami	FL	87073	9473 Jackson St	Miami	FL	87073
+285721	Mia	Hernandez	2004-06-07	Male	Japanese	703 Lopez St		Los Angeles	NC	58149	703 Lopez St	Los Angeles	NC	58149
+444312	Liam	Davis	2001-06-18	Male	Chinese	1548 Gonzalez St		Atlanta	PA	62694	1548 Gonzalez St	Atlanta	PA	62694
+220867	Thomas	Martinez	2003-04-07	Other	Hindi	9896 Smith St		Miami	IL	78580	9896 Smith St	Miami	IL	78580
+761433	Karen	Johnson	1997-01-01	Other	Arabic	3586 Smith St		Miami	NY	93677	3586 Smith St	Miami	NY	93677
+516934	Karen	Anderson	1996-10-09	Female	English	5600 Miller St	Apt 34	Los Angeles	NY	26340			NY	26340
+120191	Karen	Martin	2000-09-26	Female		5315 Miller St	Apt 46	Chicago	IL	88416	5315 Miller St	Chicago	IL	88416
+939040	Eve	Jackson	2001-05-18	Other	Hindi	3250 Garcia St	Apt 12	Atlanta	FL		3250 Garcia St	Atlanta	FL	99074
+148921	Thomas	Garcia	2004-07-04	Female	Chinese	3339 Gonzalez St		Houston	CA	64056	3339 Gonzalez St	Houston	CA	64056
+759607	Eve	Gonzalez	2002-08-12	Male	Russian	4924 Martin St		Miami	NY	68355	4924 Martin St	Miami	NY	68355
+292558	Karen	Rodriguez	2001-03-05	Other	Japanese	3586 Lopez St	Apt 41	Los Angeles	NC	51937	3586 Lopez St	Los Angeles		51937
+843753	Quinn	Brown	1998-04-01	Male	French	7757 Wilson St	Apt 51	Columbus	MI	33701	7757 Wilson St	Columbus	MI	33701
+900157	Karen	Brown	1996-09-14	Female	Arabic	9897 Miller St		Miami	NC	84817	9897 Miller St	Miami	NC	84817
+	Olivia	Anderson	1999-03-27	Male	English	3998 Thomas St		Raleigh	IL	86102	3998 Thomas St	Raleigh	IL	86102
+100905	Bob	Johnson	1998-08-27	Male	German	7273 Martin St		Detroit	OH	43267	7273 Martin St	Detroit	OH	43267
+120191	Karen	Martin	2000-09-26	Female		5315 Miller St	Apt 46	Chicago	IL	88416	5315 Miller St	Chicago	IL	88416
+400733	Ivy	Rodriguez	2004-03-27	Male	Korean	394 Garcia St	Apt 14	Los Angeles	OH	96422	394 Garcia St	Los Angeles	OH	96422
+422540	Mia	Davis		Male	Spanish	7496 Taylor St		Chicago	NC	81849		Chicago	NC	81849
+550026	Henry	Wilson	1997-03-18	Male	Korean	2158 Davis St	Apt 98	New York	MI	24649	2158 Davis St		MI	24649
+469288	Eve	Smith	2003-08-18	Male	Chinese	4827 Davis St		Houston	OH	68753	4827 Davis St	Houston	OH	68753
+735447	Thomas	Lopez	1997-12-26	Male	German	2447 Moore St		Philadelphia	GA	13971	2447 Moore St	Philadelphia	GA	13971
+467987	Henry	Brown	2001-09-02	Other	Chinese	5930 Anderson St		Philadelphia	IL	65784	5930 Anderson St	Philadelphia	IL	65784
+896150	Frank	Williams	2000-08-31	Male	English	5021 Jackson St		Detroit	IL	24142	5021 Jackson St	Detroit		24142
+	Charlie	Anderson	1995-10-07	Female	English	9837 Hernandez St		Los Angeles	MI	72617	9837 Hernandez St	Los Angeles	MI	72617
+831337	Frank	Martin	1995-07-08	Male	Spanish	3138 Jackson St		Columbus	MI	80911	3138 Jackson St	Columbus	MI	80911
+193527	Eve	Johnson	2003-08-28	Female	Hindi	2249 Martinez St		Philadelphia	PA	70333	2249 Martinez St	Philadelphia	PA	70333
+453303	Ryan	Moore	1996-03-16	Other	Japanese	4543 Thomas St	Apt 55		CA	38811	4543 Thomas St	Philadelphia	CA	38811
+913093	Frank	Miller	1998-11-18	Other	Hindi	7331 Rodriguez St		Chicago	MI	35683	7331 Rodriguez St	Chicago	MI	35683
+797302	Quinn	Garcia	2002-06-03	Male	Arabic	5006 Garcia St		Los Angeles	TX	80255	5006 Garcia St	Los Angeles	TX	80255
+190281	Grace	Garcia	1998-10-31	Male	Russian	9937 Jones St		Columbus		69261	9937 Jones St	Columbus	TX	69261
+671288	Frank	Thomas	2003-09-03	Female		960 Williams St		New York	FL	59219	960 Williams St		FL	59219
+927554	Mia	Lopez	1997-04-27	Male	French	882 Miller St	Apt 47	Los Angeles		15044	882 Miller St	Los Angeles	NY	15044
+751904	Eve	Rodriguez		Other	French	6925 Moore St		Columbus	TX	74030	6925 Moore St	Columbus	TX	74030
+932378	Thomas	Lopez	2000-06-17	Male	Hindi			Miami	IL	89673	4310 Jones St	Miami	IL	89673
+449005	Frank	Wilson	2005-11-15	Female	English	5921 Smith St	Apt 83	Raleigh	OH	73193	5921 Smith St	Raleigh	OH	73193
+201317	Ivy	Brown	2002-02-06	Female	Spanish	2838 Brown St		Los Angeles	FL	73487	2838 Brown St	Los Angeles	FL	73487
+434698	Noah	Miller	1995-10-17	Male	Korean	5478 Martin St		Columbus	MI	98538	5478 Martin St	Columbus	MI	98538
+963082	Frank	Lopez	2001-10-31	Female	Arabic	9924 Davis St		New York		99592	9924 Davis St	New York	GA	99592
+119185	Quinn	Williams	1997-02-22	Male	Korean	9888 Rodriguez St		Miami	PA	57979	9888 Rodriguez St	Miami	PA	57979
+	Karen	Hernandez		Male		1482 Moore St	Apt 10	Detroit	GA	91609	1482 Moore St	Detroit	GA	91609
+883734	Ivy	Thomas	2005-07-29	Female	German	2416 Brown St	Apt 45	Raleigh	FL	15985	2416 Brown St	Raleigh	FL	15985
+291084	Bob	Brown	1997-05-03	Male	Hindi	4494 Moore St		Raleigh	IL	81373	4494 Moore St		IL	81373
+192982	Peter	Garcia	1997-03-13	Female	Russian	6891 Smith St		Houston	NY	96360		Houston	NY	96360
+448288	Olivia	Williams	1996-02-15	Male	French	6850 Williams St		Miami	FL	31723	6850 Williams St	Miami	FL	31723
+846403	Liam	Wilson	2000-09-20	Other	English	6080 Anderson St	Apt 7	Raleigh	CA	31261	6080 Anderson St	Raleigh	CA	31261
+342753	Henry	Gonzalez	1998-04-05	Other	Arabic	2502 Martin St		Los Angeles	MI		2502 Martin St	Los Angeles	MI	
+860900	Charlie	Thomas	1997-05-15	Female	Spanish	2597 Brown St		Miami	PA	36579	2597 Brown St	Miami	PA	36579
+156530	Charlie	Miller	2001-12-04	Other	Russian	1106 Johnson St		Chicago	MI	80449	1106 Johnson St	Chicago	MI	80449
+748713	Quinn	Gonzalez		Female	Russian	8743 Hernandez St	Apt 14	Chicago	IL	18115	8743 Hernandez St	Chicago	IL	18115
+325422	Liam	Lopez	2004-04-26	Female	French	641 Williams St		Miami	MI	16573	641 Williams St	Miami	MI	16573
+873691	Quinn	Rodriguez	1999-03-04	Female	Korean	8499 Williams St		Chicago	GA	90937	8499 Williams St	Chicago	GA	90937
+187534	Frank	Wilson	1997-01-25	Female	German	7050 Lopez St		Chicago	MI		7050 Lopez St	Chicago		87236
+799454	Thomas	Williams	2000-11-30	Other	Spanish	5191 Rodriguez St	Apt 27	Raleigh	FL	27599	5191 Rodriguez St	Raleigh	FL	27599
+775156	Karen	Jones	2000-12-07	Other	Chinese	265 Brown St		Houston	MI	64405	265 Brown St	Houston	MI	64405
+393889	Quinn	Lopez	1995-02-14		Arabic	2168 Anderson St	Apt 28	Philadelphia	OH	97869	2168 Anderson St	Philadelphia	OH	97869
+	Charlie	Garcia	1997-05-18	Other	Arabic	8460 Lopez St		Chicago	TX	96132	8460 Lopez St	Chicago	TX	96132
+775948	Quinn	Garcia	1995-06-19	Other	Korean	7951 Rodriguez St			PA		7951 Rodriguez St	Houston	PA	18381
+634518	Alice	Thomas	1998-03-31	Other	Korean	4676 Williams St	Apt 16	Columbus	FL	90686	4676 Williams St	Columbus		90686
+413361	Charlie	Wilson	2000-06-11	Male	Spanish	5908 Davis St		Philadelphia	GA	47788	5908 Davis St	Philadelphia	GA	47788
+266758	Liam	Martin	1999-01-22	Male	Spanish	3943 Hernandez St	Apt 58	New York	NY	80495	3943 Hernandez St	New York	NY	80495
+237514	Bob	Davis	2002-05-31	Female	English	5120 Davis St		Chicago	GA	21787	5120 Davis St	Chicago	GA	21787
+647388	Liam		2000-10-28	Female	Hindi	4681 Thomas St		Philadelphia	NC	96156	4681 Thomas St	Philadelphia	NC	
+456425	Liam	Hernandez	2002-11-29	Female	Chinese	685 Moore St		Columbus	NY	80180	685 Moore St	Columbus	NY	80180
+671543	Noah	Moore	1996-02-08	Female	German	8333 Williams St		Philadelphia	NY	49997	8333 Williams St	Philadelphia	NY	49997
+981872	Bob	Martin	2000-07-05	Male	Hindi	6862 Brown St		New York	GA	31822	6862 Brown St	New York	GA	31822
+738723	Jack	Thomas	2001-06-08	Other	Hindi	9501 Rodriguez St		Los Angeles	OH	28882	9501 Rodriguez St	Los Angeles	OH	28882
+907323	David		2001-01-27	Female	Arabic	2724 Gonzalez St	Apt 50	New York	GA	95753	2724 Gonzalez St	New York	GA	95753
+548983	Thomas		1996-07-03	Male	Chinese	5048 Martinez St	Apt 17	Chicago	MI	79046	5048 Martinez St	Chicago	MI	79046
+299062	Ryan	Williams	1998-08-30	Other		5737 Wilson St		Detroit	IL	77034	5737 Wilson St	Detroit	IL	77034
+812273	Grace		2000-05-19	Other	Russian	6555 Martinez St		Los Angeles	OH	20833	6555 Martinez St	Los Angeles	OH	20833
+767134	Eve	Gonzalez	1995-05-06	Female	French	4041 Taylor St		Los Angeles	MI	16010	4041 Taylor St	Los Angeles	MI	16010
+554771	Sophia	Brown	1995-06-17	Male	Hindi	6249 Lopez St		Raleigh	NC	75145	6249 Lopez St	Raleigh	NC	75145
+804069	Thomas	Wilson	1997-03-12	Female	Arabic	4202 Gonzalez St		Chicago	NC	99365	4202 Gonzalez St	Chicago	NC	99365
+938547	Quinn	Davis	2001-01-30	Male		9327 Martinez St		New York	PA	94984	9327 Martinez St	New York	PA	94984
+127821	Charlie	Hernandez	1999-10-29	Male	Spanish	5598 Smith St		Houston	NC	79085	5598 Smith St	Houston	NC	79085
+103274	Bob	Anderson	1995-12-17	Male	Korean			Detroit		63804	5257 Moore St		MI	63804
+192747	Olivia	Brown	1995-06-28	Female	Spanish	7868 Smith St		Philadelphia	NY	32806	7868 Smith St	Philadelphia	NY	32806
+882151	Sophia	Brown		Other	English	6091 Davis St		Miami	FL	74672	6091 Davis St	Miami	FL	74672
+801634	David	Anderson	1999-04-01	Female	Spanish	1247 Brown St		Raleigh	MI		1247 Brown St		MI	64605
+424363	Quinn	Garcia	2005-03-23	Male	Hindi	4260 Lopez St		Houston	FL	60406	4260 Lopez St	Houston	FL	60406
+292200	Quinn	Wilson	2004-12-12	Female	Hindi	5654 Lopez St	Apt 17	Atlanta	IL	77606	5654 Lopez St	Atlanta	IL	77606
+570852	Karen	Wilson	1998-01-30	Male	Chinese	7776 Anderson St		Columbus	IL	10755	7776 Anderson St		IL	10755
+		Martin	2003-10-09	Female	Chinese	7006 Rodriguez St		Los Angeles	FL	71116	7006 Rodriguez St	Los Angeles	FL	71116
+448541	Noah	Garcia	1998-08-21	Male	Chinese	2142 Anderson St	Apt 21	New York	MI	23416	2142 Anderson St	New York	MI	23416
+951019	Olivia	Johnson	2002-09-17		Japanese	5971 Lopez St		Chicago	IL	31801	5971 Lopez St	Chicago	IL	31801
+980089	Peter	Martin	2002-03-30	Female	English	1257 Taylor St		Detroit		64201	1257 Taylor St	Detroit	MI	64201
+481477	Bob	Miller	2000-03-13	Female	Russian	602 Martinez St		Detroit	PA	35104	602 Martinez St	Detroit	PA	35104
+516995	Olivia	Smith	2002-08-14	Other	French	5774 Williams St		New York	GA	69684	5774 Williams St	New York	GA	
+887444	Henry	Thomas	2000-09-21	Other	Japanese	9124 Rodriguez St		Los Angeles	PA	11864	9124 Rodriguez St	Los Angeles	PA	11864
+130122	Ivy		2000-02-27	Other	Arabic	8953 Taylor St		Miami	NY	67528	8953 Taylor St	Miami	NY	67528
+319162	Karen	Martinez	2001-05-22	Male	Japanese	3926 Brown St		Houston	OH	31928	3926 Brown St	Houston	OH	31928
+480837	Liam	Gonzalez	1999-02-25	Other	Chinese	1204 Thomas St		Houston	NY	23645	1204 Thomas St	Houston	NY	23645
+645977	Bob		2003-11-06	Other	Japanese	8421 Garcia St		Raleigh	FL	43889	8421 Garcia St	Raleigh	FL	43889
+144336	Karen	Hernandez	1999-11-09	Female	Japanese	9407 Brown St		Detroit	PA	98648	9407 Brown St	Detroit	PA	98648
+347795	Ivy	Moore	1996-02-11	Female	Russian	2141 Davis St	Apt 88	New York	FL	79968	2141 Davis St	New York	FL	79968
+520897	Liam	Rodriguez	1999-02-17	Male	Chinese	5225 Gonzalez St		Detroit	IL	38655	5225 Gonzalez St	Detroit	IL	38655
+573074	Olivia	Johnson	2002-11-12	Female	Korean	9752 Wilson St	Apt 78	Atlanta	NY	86121	9752 Wilson St	Atlanta	NY	86121
+132421	Thomas	Brown	2001-11-22	Male	Arabic	7203 Garcia St	Apt 100			69448	7203 Garcia St	Los Angeles	FL	69448
+506232	Charlie	Wilson	2003-11-14	Female	Japanese	2612 Garcia St		Detroit	GA	57879	2612 Garcia St		GA	57879
+657879	Thomas	Gonzalez	2001-02-15	Female	Arabic	5658 Wilson St		Houston	CA	33196	5658 Wilson St	Houston	CA	33196
+713274	David	Miller	1999-03-29	Other	Russian	6667 Martin St		Houston		76244	6667 Martin St	Houston	PA	76244
+710573	Karen	Anderson	1999-04-21	Other	English			Columbus	TX	67776	1580 Anderson St	Columbus	TX	67776
+605722	Sophia	Anderson	2002-05-09	Other	Japanese	1537 Johnson St		Columbus	MI	38140	1537 Johnson St	Columbus	MI	38140
+757983	Peter	Davis	1998-07-01	Other	Russian	7278 Williams St	Apt 67	New York	CA	73792	7278 Williams St	New York	CA	73792
+973143	Bob	Smith	2004-06-10	Other	Spanish	2543 Rodriguez St		Detroit	PA		2543 Rodriguez St	Detroit	PA	58392
+419551	Eve	Thomas	2001-01-12	Female	German	431 Lopez St		Raleigh	PA	99373	431 Lopez St		PA	99373
+816412	Charlie	Jackson	2005-10-31	Female	Chinese	5421 Moore St		Philadelphia	FL	11100	5421 Moore St	Philadelphia	FL	11100
+681742	David	Davis	2005-09-30	Other	Spanish	9193 Jones St		Houston	TX	27908	9193 Jones St	Houston	TX	27908
+875012	David	Johnson	1995-07-02	Female	Hindi	897 Anderson St		Chicago	PA	28513	897 Anderson St	Chicago	PA	28513
+292210	Sophia	Jones	2002-10-20	Female	French	1273 Thomas St		Raleigh	OH	84327	1273 Thomas St		OH	84327
+262657	Alice	Gonzalez	1999-06-03	Other	Chinese			Detroit	IL	31877	8817 Johnson St	Detroit	IL	31877
+715057	Alice	Jackson	1998-04-24	Female	French	4234 Anderson St		Columbus	GA	83979	4234 Anderson St	Columbus	GA	83979
+884844	Noah	Rodriguez	2000-03-27	Male	Korean	626 Gonzalez St		Detroit		66591	626 Gonzalez St	Detroit	NC	66591
+476457	Peter	Brown	1999-01-31	Female	German	9459 Smith St		Columbus	CA	69129	9459 Smith St	Columbus	CA	69129
+734687	Olivia	Moore	1997-06-15	Other	Hindi	716 Anderson St		Philadelphia	NY	60440	716 Anderson St	Philadelphia		60440
+642994	Peter	Garcia	1995-01-06	Other	English	692 Moore St		Columbus	IL		692 Moore St	Columbus	IL	91684
+621002	Sophia	Jones	2003-08-10	Other	Russian	859 Garcia St		Columbus	TX	40900	859 Garcia St	Columbus	TX	40900
+188912	Bob	Davis	1996-04-14		French	5913 Wilson St		Columbus	IL	38308	5913 Wilson St	Columbus	IL	38308
+493490		Garcia	1995-04-10	Male	Arabic	7062 Jackson St		Philadelphia	CA	54154	7062 Jackson St	Philadelphia	CA	54154
+363007		Thomas	2000-12-29	Male	Russian	9036 Miller St		New York		54202	9036 Miller St	New York	TX	54202
+	Noah	Taylor		Female		6547 Davis St		Philadelphia	GA	73920	6547 Davis St	Philadelphia	GA	73920
+415983	Bob	Martinez	1997-03-20	Female	German	8310 Taylor St		Houston	OH	16718	8310 Taylor St	Houston	OH	16718
+600460	Ivy	Jackson	2003-08-04	Female	Russian	5394 Johnson St		Houston	CA	74484	5394 Johnson St	Houston	CA	74484
+856733	Thomas	Williams	2001-08-07	Male	Spanish	3439 Moore St		Raleigh	MI	37159	3439 Moore St	Raleigh	MI	37159
+255973	Grace	Moore	1997-01-22	Female	Arabic	5023 Jackson St		New York	MI	95616	5023 Jackson St	New York	MI	95616
+108605	Karen	Miller	2003-06-18	Female	English	438 Lopez St		Chicago	IL		438 Lopez St	Chicago	IL	32891
+255829	Frank	Wilson	2000-05-04	Male	Spanish	624 Moore St		Atlanta	OH	50761	624 Moore St	Atlanta	OH	50761
+111335	Charlie	Smith	2002-01-18	Male	Spanish	5430 Jones St	Apt 97	Los Angeles	TX	16388	5430 Jones St	Los Angeles	TX	
+733379	Henry	Miller	2005-07-09	Other	Japanese	3157 Hernandez St	Apt 46	Philadelphia	OH	91586	3157 Hernandez St	Philadelphia	OH	91586
+876530	Grace	Hernandez	1995-12-18	Female	Japanese	8701 Johnson St	Apt 69	Miami	OH	34156	8701 Johnson St	Miami	OH	
+590138	Sophia	Gonzalez		Other	Hindi	8608 Rodriguez St		Miami	IL	90398	8608 Rodriguez St	Miami	IL	90398
+968131	Sophia	Jackson	2000-09-10	Other	German	7884 Johnson St		Chicago	FL	15531	7884 Johnson St	Chicago	FL	15531
+789222	Peter	Garcia	2001-06-16	Male	Russian	7739 Jackson St		Raleigh	GA	84790	7739 Jackson St	Raleigh		
+895070	Quinn	Jackson	1996-12-14	Male	Arabic	201 Anderson St		Detroit	NC	10727	201 Anderson St	Detroit	NC	10727
+960943	David	Brown	1999-12-20	Male	Chinese	6808 Johnson St		Houston	TX	89041	6808 Johnson St	Houston	TX	89041
+804771	Henry	Hernandez	1996-03-18	Female	English	1191 Rodriguez St			FL	17845	1191 Rodriguez St	Detroit	FL	17845
+613918	Liam		2002-09-02			5220 Moore St		Chicago	NC	92035	5220 Moore St	Chicago	NC	92035
+966863	Noah	Rodriguez	2002-10-30	Other	German	5126 Jones St		Chicago	FL	59633	5126 Jones St	Chicago	FL	59633
+457081	Eve	Williams	2005-05-03	Female		4064 Miller St		Chicago	PA	34628	4064 Miller St	Chicago	PA	34628
+526060	Ryan	Wilson	1996-07-25	Female	Spanish	4633 Miller St		Los Angeles	IL	37739	4633 Miller St	Los Angeles	IL	37739
+934672	David	Gonzalez	2004-06-06		French	2758 Brown St	Apt 63	Atlanta	MI	10673	2758 Brown St	Atlanta	MI	10673
+727725	Alice	Gonzalez	2004-07-16	Male	Hindi	4671 Davis St		Miami	OH		4671 Davis St	Miami	OH	44085
+927175	Olivia	Rodriguez	1998-10-31	Male	English			Chicago	NY		4394 Garcia St	Chicago	NY	92170
+839248	Quinn	Smith	2002-10-12	Female	Hindi	6381 Brown St	Apt 49	Raleigh	GA	94090	6381 Brown St	Raleigh	GA	
+357670	Thomas	Johnson	1996-02-26	Female	Spanish	2470 Martin St	Apt 57	Columbus	CA	47321	2470 Martin St	Columbus	CA	47321
+413618	Eve	Martin		Female	Arabic	3459 Lopez St		Columbus	IL	70426	3459 Lopez St	Columbus	IL	70426
+798024	Charlie	Miller	1997-11-30	Male	French	5567 Martin St		Los Angeles	GA	55260	5567 Martin St	Los Angeles	GA	55260
+803122	Alice	Davis	1996-10-21	Other	Korean	6297 Johnson St	Apt 43	Miami	NY	27116	6297 Johnson St	Miami	NY	27116
+402115	Eve	Rodriguez	1997-07-23	Male	Japanese	2509 Brown St		Raleigh	PA	21571	2509 Brown St	Raleigh	PA	21571
+352599	Olivia	Martin	1997-10-10	Other		492 Brown St		Philadelphia	NC	46545	492 Brown St	Philadelphia	NC	46545
+583909	Mia	Johnson	1996-08-21	Other	English	4513 Martinez St			GA	73099	4513 Martinez St	Atlanta	GA	73099
+806310	Charlie	Garcia	1997-04-12	Male	Spanish	8297 Smith St		Raleigh		32920	8297 Smith St	Raleigh	NC	32920
+928861	Mia	Moore	2004-08-27	Male	Spanish	8122 Rodriguez St		Detroit	NY	61625	8122 Rodriguez St	Detroit	NY	61625
+819142	Karen	Hernandez	1996-03-19	Other	French	9336 Garcia St		Philadelphia	GA	83387	9336 Garcia St	Philadelphia	GA	83387
+632157	Olivia	Smith	1997-10-20	Male	French		Apt 69	New York	NC	48291	4107 Hernandez St	New York	NC	48291
+357052	Noah	Anderson	1999-05-17	Other	Spanish			Miami	NC	83073	8565 Lopez St	Miami		
+	Thomas	Gonzalez	1998-07-09	Other	French	2648 Brown St		Atlanta	IL	34323		Atlanta	IL	34323
+651312	Liam	Brown	2005-12-25	Male	Chinese	9659 Gonzalez St		Detroit	FL	82683	9659 Gonzalez St		FL	82683
+470960	Jack	Smith		Female	Russian	4892 Williams St			PA	49185	4892 Williams St	Houston	PA	49185
+924774	Charlie	Wilson	2005-07-06	Male	Korean	4283 Davis St		New York	TX	41481	4283 Davis St	New York	TX	41481
+531403	Mia	Davis	2004-09-29	Female	Spanish	7231 Smith St	Apt 55	Raleigh	GA	67099	7231 Smith St	Raleigh	GA	67099
+	Olivia	Gonzalez	1999-06-29	Male	Korean	1543 Brown St		Philadelphia	CA	32026	1543 Brown St	Philadelphia	CA	32026
+	Grace	Gonzalez	2003-03-16	Male	Japanese	5125 Brown St		Miami		28012	5125 Brown St	Miami	PA	28012
+870413	Sophia		2000-11-11	Female	Spanish	7195 Rodriguez St	Apt 87	Atlanta	IL	18704	7195 Rodriguez St	Atlanta	IL	18704
+324943	Frank	Anderson	1997-07-16	Male	French	7733 Smith St		Philadelphia	OH	43413	7733 Smith St	Philadelphia	OH	
+163185	Thomas	Johnson	1996-09-27	Male	Japanese	2522 Anderson St	Apt 9	Philadelphia	MI		2522 Anderson St	Philadelphia	MI	42477
+572864	Jack	Jones		Female	Chinese	3618 Moore St		Atlanta	FL	86839	3618 Moore St	Atlanta	FL	86839
+893342	David	Jackson	2000-02-13	Other	Russian	8948 Johnson St	Apt 78	Chicago	MI	40255	8948 Johnson St	Chicago	MI	40255
+400089	Alice	Thomas	2000-10-13	Male	Korean	416 Jackson St		Atlanta	OH	88220	416 Jackson St	Atlanta	OH	88220
+818821	Quinn	Gonzalez	2002-05-03	Male	Arabic	9502 Miller St		Los Angeles	GA	44191	9502 Miller St	Los Angeles	GA	44191
+834014	Alice	Jones	2003-06-07	Male	Chinese	8219 Garcia St			NC	41242		Columbus		
+288000	Ryan	Brown	2000-04-14	Female	Korean	4253 Thomas St		Los Angeles	IL	15597	4253 Thomas St	Los Angeles	IL	15597
+468658	Eve	Taylor	1996-08-09	Female	Spanish	9143 Moore St		New York	FL	83491	9143 Moore St	New York	FL	83491
+	Eve	Garcia	2001-03-04	Other	Spanish	8515 Wilson St		Atlanta	IL	21586	8515 Wilson St	Atlanta	IL	21586
+522155	Karen	Martin	1998-04-27	Female				Columbus	TX	11604	1200 Smith St	Columbus	TX	11604
+350073	Alice	Gonzalez	1999-02-10	Male	Chinese	2350 Martinez St		Raleigh	PA	68920	2350 Martinez St	Raleigh	PA	68920
+334046	Liam	Martin	1999-09-12	Male	Arabic	318 Martin St		Detroit	PA	54799	318 Martin St	Detroit	PA	54799
+188357	Charlie	Garcia	1995-09-23	Male	Korean	2370 Lopez St	Apt 86	Atlanta	MI	60097	2370 Lopez St	Atlanta	MI	60097
+844004	Liam	Jones		Other	Arabic	7950 Taylor St		Chicago	FL	52236		Chicago	FL	52236
+102923	Peter	Johnson	1998-04-05	Female	Russian	8479 Miller St	Apt 97	Houston	OH	93631	8479 Miller St	Houston		93631
+709776	Bob	Garcia	1998-04-27	Female	French	3465 Taylor St	Apt 23	Atlanta	NY	98232	3465 Taylor St	Atlanta	NY	98232
+558677	Karen	Moore	2004-06-29	Male	German	4997 Wilson St	Apt 75	Miami	MI	88177	4997 Wilson St	Miami	MI	88177
+	Ivy	Williams	1996-05-07	Male	French	2487 Johnson St	Apt 70	New York	OH	64514	2487 Johnson St	New York		
+366186	Jack	Wilson	1997-05-31	Other	Russian	551 Taylor St	Apt 62	Atlanta	NY	32377		Atlanta	NY	32377
+274684	Liam	Jackson	1996-10-21	Female	Spanish	2823 Taylor St	Apt 59	Detroit	NY	84892	2823 Taylor St	Detroit	NY	84892
+306920	Sophia	Johnson	2005-05-12	Other	Russian	295 Thomas St		Raleigh	IL		295 Thomas St	Raleigh	IL	35969
+879909	Grace	Rodriguez	1996-05-02	Other	Russian	383 Davis St		Raleigh	OH		383 Davis St	Raleigh	OH	58949
+657484	Bob	Rodriguez	1999-09-23	Female	Korean	2228 Taylor St		Atlanta	MI	45499	2228 Taylor St	Atlanta	MI	45499
+736292	Karen	Williams	2002-11-29	Male	Hindi	4371 Wilson St	Apt 78	Raleigh	GA	40883	4371 Wilson St	Raleigh	GA	40883
+825595	David	Johnson	1997-05-25		Japanese	2457 Miller St	Apt 24	Chicago	IL	95249	2457 Miller St	Chicago	IL	95249
+105128	Eve	Lopez	2000-12-23	Female		3261 Johnson St		Raleigh	TX	11381	3261 Johnson St	Raleigh	TX	11381
+436703	Mia		1998-03-31	Other	Chinese	7762 Rodriguez St	Apt 26	Houston	CA	32573	7762 Rodriguez St	Houston	CA	32573
+113459	Liam	Smith	1997-03-24	Other	Chinese	1925 Garcia St	Apt 20	Houston	FL	17765	1925 Garcia St	Houston	FL	17765
+405510	Noah		2001-03-03	Female	French	552 Williams St		Chicago	NC	70847	552 Williams St	Chicago	NC	70847
+	Eve	Martinez	1995-03-11	Other	Spanish	7518 Rodriguez St	Apt 20	Miami		51573	7518 Rodriguez St	Miami	GA	51573
+407696			2000-10-20		Russian	5819 Taylor St	Apt 54	Houston	PA	62333	5819 Taylor St	Houston	PA	62333
+190764	Bob	Moore	2004-04-24	Female	Chinese	8995 Lopez St		Atlanta	CA	89880	8995 Lopez St	Atlanta		89880
+585538	Olivia	Williams	2005-10-24	Male	Chinese	2774 Garcia St		New York	OH	14688		New York	OH	14688
+573976	Eve	Williams	1997-03-22	Male	Hindi	3166 Johnson St		Detroit	TX	77684		Detroit	TX	77684
+452587	Grace	Smith	1995-06-24	Male	Korean	4592 Taylor St		Miami	NY	43849	4592 Taylor St	Miami	NY	43849
+603061	Noah	Gonzalez	1997-03-26	Male	Chinese	4111 Taylor St		Chicago	FL	96747	4111 Taylor St	Chicago	FL	96747
+738152	Olivia	Wilson	2001-03-11	Other	Korean	6494 Rodriguez St		Columbus	OH	64067	6494 Rodriguez St	Columbus	OH	64067
+444185	Sophia		2004-07-22	Female	Chinese	9298 Miller St		Chicago	OH	67456	9298 Miller St	Chicago		67456
+422625	Alice	Rodriguez	1998-08-19	Other	Spanish	1995 Thomas St		Raleigh	IL	33533	1995 Thomas St	Raleigh	IL	33533
+453474	David	Brown	2000-12-05	Female	Hindi	7039 Hernandez St		Los Angeles		75628	7039 Hernandez St	Los Angeles	PA	75628
+663854	David		2002-07-05	Other	Chinese	8545 Martin St		Los Angeles		65769	8545 Martin St	Los Angeles	NY	65769
+233529	Frank	Anderson	2000-08-21	Male	French	4398 Thomas St		Raleigh	TX	55616	4398 Thomas St	Raleigh	TX	55616
+564127	Ivy	Taylor	1996-04-17	Other	Arabic	9752 Rodriguez St		Houston	TX	94068	9752 Rodriguez St	Houston	TX	94068
+434698	Noah	Miller	1995-10-17	Male	Korean	5478 Martin St		Columbus	MI	98538	5478 Martin St	Columbus	MI	98538
+402634	Karen	Rodriguez	1995-11-03	Male	Hindi	8736 Davis St		Philadelphia	MI	19622	8736 Davis St	Philadelphia	MI	19622
+214485	Peter	Garcia	2003-03-25	Other	Chinese	6841 Jones St		Atlanta	NY	71379	6841 Jones St	Atlanta	NY	71379
+959954	Liam	Martin	2001-08-26	Male	German	4506 Taylor St		Philadelphia	PA	68494	4506 Taylor St	Philadelphia	PA	68494
+503163	Grace	Anderson	1997-01-29	Other	French	8396 Martinez St		Chicago	FL	85322	8396 Martinez St	Chicago	FL	85322
+366271	Eve	Johnson	2005-09-24	Female	Korean	5211 Rodriguez St		Miami	FL	96165	5211 Rodriguez St	Miami	FL	96165
+437421	Charlie	Wilson	2000-04-20	Female		3017 Garcia St		Los Angeles	GA	75838	3017 Garcia St	Los Angeles	GA	75838
+105176	Alice	Hernandez	1996-08-03	Female	Spanish	5701 Gonzalez St	Apt 24	Los Angeles	TX	87753	5701 Gonzalez St	Los Angeles	TX	87753
+282068	Noah	Davis	1995-12-23	Other	Hindi	9940 Thomas St		Houston	GA	90356	9940 Thomas St	Houston	GA	90356
+679354	Ryan	Garcia	2003-10-15	Female	Russian	5527 Rodriguez St			IL		5527 Rodriguez St	Chicago	IL	29692
+275142	Charlie	Anderson	1997-03-02	Male	Arabic		Apt 75	Detroit	MI	54192	2145 Davis St	Detroit	MI	54192
+478605	Olivia	Johnson	1999-07-22	Female	Arabic	3021 Thomas St		Chicago	MI	94915	3021 Thomas St	Chicago	MI	94915
+169232	Frank	Davis			Arabic	8300 Martin St	Apt 7	Chicago	CA	47400	8300 Martin St	Chicago	CA	47400
+325773	Charlie	Gonzalez	1997-06-18	Other	Chinese	5299 Jackson St		Columbus	TX	63423	5299 Jackson St	Columbus	TX	63423
+260614	Noah	Hernandez	2002-02-04	Other	English	3824 Johnson St			NY		3824 Johnson St	Atlanta	NY	19023
+776237	Quinn	Jackson	1997-05-10		Russian	2625 Johnson St		New York	NC	82439	2625 Johnson St	New York	NC	82439
