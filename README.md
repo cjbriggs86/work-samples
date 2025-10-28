@@ -1,5 +1,5 @@
 #work-samples/README
-##Data Project Tracking
+## Data Project Tracking
 
 The purpose of this hub is to build a portfolio of my work as a Data Analyst. This document tracks and introduces the projects contained within the overall hub.
 
